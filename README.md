@@ -57,3 +57,10 @@ El sistema cuenta con las siguientes funcionalidades:
 
 4. **Visualización de Ingredientes:**
    - El usuario puede visualizar en cualquier momento los ingredientes que ha seleccionado para su pizza.
+
+
+## Todos los derechos reservados
+
+© 2024 Pizza JAT. Todos los derechos reservados.
+
+
